@@ -13,4 +13,4 @@ class Dog
 end
 
 doggo = Dog.new("Izzy", "Poodle")
-doggo.bark
+doggo.initialize
