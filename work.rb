@@ -16,6 +16,3 @@ class Dog
   end 
   
 end
-
-doggo = Dog.new("Izzy", "Poodle")
-doggo.id
